@@ -1,7 +1,7 @@
-Name :
-DOB :
-Salary :
-Experience :
-Last working day :
-CTC :
+Name : pooja
+DOB : 1999
+Salary : 20 laks
+Experience : 0
+Last working day : 0
+CTC : 
 
